@@ -3,4 +3,4 @@ For years, I have been interested in programming and software development. My jo
 
 ## What I use
 
-![This is a alt text.](/bootstrap-logo.png "Bootstrap")
+<img src="bootstrap-logo.png" alt="Bootstrap" width="50px"/>
