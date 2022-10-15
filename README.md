@@ -5,17 +5,28 @@ For years, I have been interested in programming and software development. My jo
 
 <table>
   <tr>
-    <td><img src="atom-logo.png" alt="Bootstrap" width="50px"/></td>
+    <td><img src="atom-logo.png" alt="Atom" width="50px"/></td>
     <td><img src="bootstrap-logo.png" alt="Bootstrap" width="50px"/>
-    <td><img src="composer-logo.png" alt="Bootstrap" width="50px"/>
-    <td><img src="css-logo.png" alt="Bootstrap" width="50px"/>
-    <td><img src="drupal-logo.png" alt="Bootstrap" width="50px"/></td>
-    <td><img src="git-logo.png" alt="Bootstrap" width="50px"/></td>
+    <td><img src="composer-logo.png" alt="Composer" width="50px"/>
+    <td><img src="css-logo.png" alt="CSS" width="50px"/>
+    <td><img src="drupal-logo.png" alt="Drupal" width="50px"/></td>
+    <td><img src="git-logo.png" alt="Git" width="50px"/></td>
     <td><img src="html5-logo.png" alt="HTML5" width="50px"/></td>
-    <td><img src="javascript-logo.png" alt="Bootstrap" width="50px"/>
-    <td><img src="php.logo.png" alt="Bootstrap" width="50px"/></td>
-    <td><img src="python-logo.png" alt="Bootstrap" width="50px"/></td>
-    <td><img src="ruby-logo.png" alt="Bootstrap" width="50px"/></td>
-    <td><img src="wordpress.logo.png" alt="Bootstrap" width="50px"/></td>
+    <td><img src="javascript-logo.png" alt="Javascript" width="50px"/>
+    <td><img src="php.logo.png" alt="PHP" width="50px"/></td>
+    <td><img src="python-logo.png" alt="Python" width="50px"/></td>
+    <td><img src="ruby-logo.png" alt="Ruby" width="50px"/></td>
+    <td><img src="wordpress.logo.png" alt="WordPress" width="50px"/></td>
+  </tr>
+</table>
+
+## Current Stack
+
+<table>
+  <tr>
+    <td><img src="ubuntu-logo.png" alt="Ubuntu" width="50px"/></td>
+    <td><img src="apache-logo.png" alt="Apache" width="50px"/>
+    <td><img src="mariadb-logo.png" alt="Maria DB" width="50px"/>
+    <td><img src="php.logo.png" alt="PHP" width="50px"/></td>
   </tr>
 </table>
