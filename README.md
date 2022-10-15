@@ -3,14 +3,16 @@ For years, I have been interested in programming and software development. My jo
 
 ## What I use
 
-<tr>
-  <td><img src="atom-logo.png" alt="Bootstrap" width="50px"/></td>
-  <td><img src="bootstrap-logo.png" alt="Bootstrap" width="50px"/>
-  <td><img src="drupal-logo.png" alt="Bootstrap" width="50px"/></td>
-  <td><img src="git-logo.png" alt="Bootstrap" width="50px"/></td>
-  <td><img src="html5-logo.png" alt="HTML5" width="50px"/></td>
-  <td><img src="php.logo.png" alt="Bootstrap" width="50px"/></td>
-  <td><img src="python-logo.png" alt="Bootstrap" width="50px"/></td>
-  <td><img src="ruby-logo.png" alt="Bootstrap" width="50px"/></td>
-  <td><img src="wordpress.logo.png" alt="Bootstrap" width="50px"/></td>
- </tr>
+<table>
+  <tr>
+    <td><img src="atom-logo.png" alt="Bootstrap" width="50px"/></td>
+    <td><img src="bootstrap-logo.png" alt="Bootstrap" width="50px"/>
+    <td><img src="drupal-logo.png" alt="Bootstrap" width="50px"/></td>
+    <td><img src="git-logo.png" alt="Bootstrap" width="50px"/></td>
+    <td><img src="html5-logo.png" alt="HTML5" width="50px"/></td>
+    <td><img src="php.logo.png" alt="Bootstrap" width="50px"/></td>
+    <td><img src="python-logo.png" alt="Bootstrap" width="50px"/></td>
+    <td><img src="ruby-logo.png" alt="Bootstrap" width="50px"/></td>
+    <td><img src="wordpress.logo.png" alt="Bootstrap" width="50px"/></td>
+  </tr>
+</table>
