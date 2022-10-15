@@ -7,9 +7,12 @@ For years, I have been interested in programming and software development. My jo
   <tr>
     <td><img src="atom-logo.png" alt="Bootstrap" width="50px"/></td>
     <td><img src="bootstrap-logo.png" alt="Bootstrap" width="50px"/>
+    <td><img src="composer-logo.png" alt="Bootstrap" width="50px"/>
+    <td><img src="css-logo.png" alt="Bootstrap" width="50px"/>
     <td><img src="drupal-logo.png" alt="Bootstrap" width="50px"/></td>
     <td><img src="git-logo.png" alt="Bootstrap" width="50px"/></td>
     <td><img src="html5-logo.png" alt="HTML5" width="50px"/></td>
+    <td><img src="javascript-logo.png" alt="Bootstrap" width="50px"/>
     <td><img src="php.logo.png" alt="Bootstrap" width="50px"/></td>
     <td><img src="python-logo.png" alt="Bootstrap" width="50px"/></td>
     <td><img src="ruby-logo.png" alt="Bootstrap" width="50px"/></td>
