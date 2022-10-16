@@ -44,3 +44,7 @@ Microsoft Technology Associate: Networking Fundamentals (MTA)
     <td><img src="php.logo.png" alt="PHP" width="50px"/></td>
   </tr>
 </table>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=SpenceDog)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SpenceDog&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SpenceDog)
